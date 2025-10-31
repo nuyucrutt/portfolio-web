@@ -1,0 +1,4 @@
+flask==2.3.2
+flask-jwt-extended==4.6.0
+flask-cors
+pytest
